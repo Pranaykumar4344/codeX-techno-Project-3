@@ -87,6 +87,8 @@ After training or if you already have `car_price_model.pkl`, launch the interact
 ```bash
 streamlit run app.py
 ```
+Alternatively, you can try the live app here:
+https://car-price-prediction-ml.streamlit.app/
 
 Enter the car details in the UI and click **Predict Selling Price** to get an estimated resale price in Lakhs ₹.
 
@@ -117,10 +119,6 @@ Contributions, feature requests, and bug reports are welcome! Please open an iss
 ## 📫 Contact
 
 Feel free to connect with me on LinkedIn:  
-[https://www.linkedin.com/in/pranaykumar-ai-ml](https://www.linkedin.com/in/pranaykumar-ai-ml)
+[https://www.linkedin.com/in/pranaykumar-ai-ml](https://www.linkedin.com/in/janapareddi-pranay-kumar-5897a828a/)
 
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
